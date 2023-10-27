@@ -18,6 +18,6 @@
 
 <style>
   .image-profile: {
-    border-radius: 50%;
+    border-radius: "50%";
   }
 </style>
