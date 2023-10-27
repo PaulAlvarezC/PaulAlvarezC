@@ -1,11 +1,11 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://guarani.lineadns.com:2083/cpsess7953911272/viewer/home%2falcorpte%2fpublic_html%2fassets%2fimg/profileRounded.png" style="border-radius: 50%;" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/5975878?v=4" style="border-radius: 50%;" />
    <h3 align="center">Hola 👋! mi nombre es Paúl Alvarez Corral 👨🏻‍💻</h3>
 </p>
 
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 10 años experiencia.</p>
 <p align="center">
-  <a href="https://www.instagram.com/gatoalvarezc/" target="blank">
+  <a href="https://www.instagram.com/gatoalvarezc/" target="blank" style="color:#fff;">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paulalvarezc" height="28px" width="28px" />
   </a>
 </p>
