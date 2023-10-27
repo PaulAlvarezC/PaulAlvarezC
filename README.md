@@ -17,7 +17,7 @@
 </a>
 
 <style>
-  .image-profile: {
-    border-radius: "50%";
+  img {
+    border-radius: 50%;
   }
 </style>
