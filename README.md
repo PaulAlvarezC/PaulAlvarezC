@@ -6,7 +6,7 @@
 <p align="center">Soy <strong>Desarrollador Full Stack</strong> con 10 años experiencia.</p>
 <p align="center">
   <a href="https://www.instagram.com/gatoalvarezc/" target="blank" style="color:#fff;">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paulalvarezc" height="28px" width="28px" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="paulalvarezc" height="28px" width="28px" />
   </a>
 </p>
 
