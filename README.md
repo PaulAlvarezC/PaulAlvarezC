@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/5975878?v=4" />
    <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
@@ -59,6 +59,7 @@
 </a>
 
 ### 📝 Últimos artículos en mi [blog de Desarrollo Full Stack: midu.dev](https://midu.dev)
+
 - [Top 5 preguntas de JavaScript en Stack Overflow](https://midu.dev/top-5-preguntas-javascript-stack-overflow/)
 - [toReversed, toSpliced, toSorted y with. Nuevos métodos de Array en JavaScript explicados.](https://midu.dev/to-reversed-to-spliced-to-sorted-with/)
 - [Cómo leer, copiar y pegar del portapapeles en JavaScript](https://midu.dev/leer-copiar-pegar-portapapeles-javascript/)
